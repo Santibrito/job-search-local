@@ -1,4 +1,4 @@
-# Proyecto de Búsqueda Laboral Local
+# Proyecto de Búsqueda Laboral Local - Back End
 
 Este proyecto es una plataforma de búsqueda laboral local, similar a LinkedIn pero enfocada en una comunidad específica. Permite a los usuarios registrados buscar empleo, publicar ofertas de trabajo y establecer conexiones profesionales dentro de su área local.
 
